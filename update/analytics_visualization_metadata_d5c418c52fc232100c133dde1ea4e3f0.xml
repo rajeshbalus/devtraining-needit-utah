@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="analytics_visualization_metadata">
+    <analytics_visualization_metadata action="INSERT_OR_UPDATE">
+        <created_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by>
+        <created_on>2025-12-24 07:11:23</created_on>
+        <last_deactivated_on/>
+        <last_updated_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</last_updated_by>
+        <last_updated_on>2025-12-24 07:11:23</last_updated_on>
+        <sys_class_name>analytics_visualization_metadata</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-24 07:11:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d5c418c52fc232100c133dde1ea4e3f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>analytics_visualization_metadata_d5c418c52fc232100c133dde1ea4e3f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-24 07:11:23</sys_updated_on>
+        <used_in_dashboard>false</used_in_dashboard>
+        <visualization display_value="Monthly breakdown">99c494c52fc232100c133dde1ea4e370</visualization>
+    </analytics_visualization_metadata>
+</record_update>
